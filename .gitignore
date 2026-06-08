@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# bardzo duze pliki wynikowe generowane lokalnie
+LAB4/output/integrated/fact_sales_integrated.csv
+LAB4/output/integrated/duplicates_between_sources.csv
+LAB5/output/olap/combined_clean_data.csv
